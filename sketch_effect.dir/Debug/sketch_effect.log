@@ -1,0 +1,44 @@
+﻿  CPU_SketchEffect.cpp
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\CPU_SketchEffect.cpp(166,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\CPU_SketchEffect.cpp(272,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\CPU_SketchEffect.cpp(363,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\CPU_SketchEffect.cpp(445,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\CPU_SketchEffect.cpp(517,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GPU_SketchEffect.cpp
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\GPU_SketchEffect.cpp(247,37): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\GPU_SketchEffect.cpp(252,78): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+  SketchEffect.cpp
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.cpp(45,31): warning C4245: '=': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.cpp(46,27): warning C4245: '=': conversion from 'int' to 'unsigned int', signed/unsigned mismatch
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.cpp(60,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.cpp(61,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.cpp(63,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.cpp(510,28): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.cpp(510,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Asus\Desktop\sketch-effect\src\SketchEffect\SketchEffect.cpp(510,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  ThreadPool.cpp
+  camera_input.cpp
+  scene_input.cpp
+  simple_scene.cpp
+  text_renderer.cpp
+  engine.cpp
+  frame_buffer.cpp
+  gpu_buffers.cpp
+  mesh.cpp
+C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\mesh.cpp(271,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\Desktop\sketch-effect\src\core\gpu\mesh.cpp(297,27): warning C4018: '<': signed/unsigned mismatch
+  shader.cpp
+  texture2D.cpp
+  texture_manager.cpp
+  input_controller.cpp
+  window_callbacks.cpp
+  window_object.cpp
+C:\Users\Asus\Desktop\sketch-effect\src\core\window\window_object.cpp(409,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  world.cpp
+  main.cpp
+  Generating Code...
+  Compiling...
+  gl_utils.cpp
+  text_utils.cpp
+  Generating Code...
+LINK : fatal error LNK1168: cannot open C:\Users\Asus\Desktop\sketch-effect\bin\Debug\sketch_effect.exe for writing

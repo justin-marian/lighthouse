@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\GameInit.cpp">
+      <Filter>src\LightHouse</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\LightHouse.cpp">
+      <Filter>src\LightHouse</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\Load.cpp">
+      <Filter>src\LightHouse</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\SliderManager.cpp">
+      <Filter>src\LightHouse</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\lighthouse\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\Color.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\Default.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\MVP.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\MVP.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\Model.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\Normals.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\Screen.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\Screen.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\Simple.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\Text.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\Text.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\assets\shaders\VertexColor.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\Creator.h">
+      <Filter>src\LightHouse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\GMesh.h">
+      <Filter>src\LightHouse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\GShader.h">
+      <Filter>src\LightHouse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\GTexture.h">
+      <Filter>src\LightHouse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\GameInit.h">
+      <Filter>src\LightHouse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\LightHouse.h">
+      <Filter>src\LightHouse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\Load.h">
+      <Filter>src\LightHouse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\SliderManager.h">
+      <Filter>src\LightHouse</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\F_LightHouse.glsl">
+      <Filter>src\LightHouse\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\F_Mountain.glsl">
+      <Filter>src\LightHouse\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\FragmentShader.glsl">
+      <Filter>src\LightHouse\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\Sliders\fragment\F_Hue.glsl">
+      <Filter>src\LightHouse\shaders\Sliders\fragment</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\Sliders\fragment\F_RGB.glsl">
+      <Filter>src\LightHouse\shaders\Sliders\fragment</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\Sliders\fragment\F_Saturation.glsl">
+      <Filter>src\LightHouse\shaders\Sliders\fragment</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\Sliders\fragment\F_Value.glsl">
+      <Filter>src\LightHouse\shaders\Sliders\fragment</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\Sliders\vertex\V_HSV.glsl">
+      <Filter>src\LightHouse\shaders\Sliders\vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\Sliders\vertex\V_RGB.glsl">
+      <Filter>src\LightHouse\shaders\Sliders\vertex</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\V_LightHouse.glsl">
+      <Filter>src\LightHouse\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\V_Moutain.glsl">
+      <Filter>src\LightHouse\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\LightHouse\shaders\VertexShader.glsl">
+      <Filter>src\LightHouse\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\lighthouse\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\lighthouse\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{FE5DA9E8-ED60-3491-9B12-C75B2FF9D1F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\shaders">
+      <UniqueIdentifier>{5BAA0568-D977-3633-A0A2-2A8CCD7F0041}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{EFBA1911-A308-3E04-BC54-5E48937006ED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\LightHouse">
+      <UniqueIdentifier>{EBAFBFFE-8E69-3591-BCBD-94DAE24915C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\LightHouse\shaders">
+      <UniqueIdentifier>{DEA84AE3-96ED-3EDB-9400-EE7AE612F769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\LightHouse\shaders\Sliders">
+      <UniqueIdentifier>{3FDAA1BA-04FB-34C4-9DD3-A4E1E26985AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\LightHouse\shaders\Sliders\fragment">
+      <UniqueIdentifier>{9209D35F-38E4-3A60-89D3-7379EFC3FD67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\LightHouse\shaders\Sliders\vertex">
+      <UniqueIdentifier>{FE91C95E-1582-3FAF-9BFD-BA2230D64C14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{AD528D98-5BF4-3CED-92F8-50159FA43823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{78536ECB-D040-342D-B304-2390FBB25686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{32C45A59-837B-3ED5-AA88-2020D51B521A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{C5C6C00C-FD78-3F72-BC79-ED0A2FBE9FCB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{50F365DE-E49D-32F9-985D-A53508E9E130}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{029116FF-4E2F-32FC-8A1E-5494197046C9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

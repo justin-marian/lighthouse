@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\LIGHTHOUSE\CMAKEFILES\FADA964E2D5FE653DEC9DEF26D8DB745\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Asus/Desktop/lighthouse -BC:/Users/Asus/Desktop/lighthouse --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Asus/Desktop/lighthouse/GFXFramework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
